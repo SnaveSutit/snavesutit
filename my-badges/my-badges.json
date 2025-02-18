@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/SnaveSutit/minecraft-commands-performance-analysis/commit/ab4b7bcd6c08ecf7c201a1e48798efe53dd0235b\"><strong>ab</strong>4b7bcd6c08ecf7c201a1e48798efe53dd0235b</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/SnaveSutit/mcbuild-template/commit/0f634de089ae0a24ee718b0cafe1bcbbc5d32680\">0f634de089ae0a24ee718b0<strong>cafe</strong>1bcbbc5d32680</a>\n- <a href=\"https://github.com/SnaveSutit/world-template/commit/08a391e0a6a615df6124fbf6cafe13087130f5d8\">08a391e0a6a615df6124fbf6<strong>cafe</strong>13087130f5d8</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/6329b82bc55e2d85fcedead8e61c2d5daf85105c\">6329b82bc55e2d85fce<strong>dead</strong>8e61c2d5daf85105c</a>\n- <a href=\"https://github.com/SnaveSutit/figura-libs/commit/d3d6229dc77903d0d4cbdead21f7d342e0b3426d\">d3d6229dc77903d0d4cb<strong>dead</strong>21f7d342e0b3426d</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/283cd983145f103df5795d9c739bf915bd7be92e\">283cd98</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/cded40956daaee1d63193806086b2889a21f11ab\">cded409</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/1881c230da884047400c91b6b2c1614ecc1582ca\">1881c23</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/e9bff27e32810e62b622c65cc683ccb1d2a71ec3\">e9bff27</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/68d40817cb5f07e611377bd162efdff118b584e4\">68d4081</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/c59cb5c14fc0b82415efefcce4e9ed74459a3d8f\">c59cb5c</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/generic-stream/commit/7e0fbdc40952f92372ecdbd3a88a36523f8d5899\">7e0fbdc</a>: 💢💢💢\n- <a href=\"https://github.com/SnaveSutit/yeggs-summer-2022-submission/commit/716355896afc72d325add52121e510b4ddab008f\">7163558</a>: 🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/ee141589c9cced93eb6120374a19d529c4fa8c7a\">ee14158</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/e0b6e984f680ead86d3c776d1a9487d7fe58a10a\">e0b6e98</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/194876637dd381be65b6378473c595f03a1cfe3b\">1948766</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template/commit/069ef8578ba0a5c072a5b3dfb8e30b8ee01b988a\">069ef85</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/a62be1457393f2a8d4aed66fcd946124fc7c8db0\">a62be14</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/0b566224ac6ebf0d713e6c620a056729f51334c0\">0b56622</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 389 times)\n2. added (used 254 times)\n3. add (used 126 times)\n4. commit (used 125 times)\n5. fix (used 119 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7cc8fb28c4c172db40c367f66427fc5ba8e46711\">7cc8fb2</a>: Fixes and missing types\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a32d2139e4897375aefc7c80d8474e6730345dad\">a32d213</a>: Fix THREE.js version\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/5b8cf8b4726d19066db4a9ca6ae716604f892dc7\">5b8cf8b</a>: Fixes",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/f4f0304d01051bba9dd393d45b23bb1822684998\">f4f0304</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/432df3274bb88ced38ab4494eb1d6b62dff51d41\">432df32</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/5d0a4fa7b4b3268e22cdf4d4c02d2d20a941f4ea\">5d0a4fa</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/fe12b93964bbd101ee0cba53523c47dc21a8e67b\">fe12b93</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/5035d73b4fc323ad4889027f0174e9c4ff6b52b0\">5035d73</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/7b66706550ac8da755c9013972227a0b55f0ac22\">7b66706</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/3e3e45cf3d2aeafaa25905b812e804c7a438fc45\">3e3e45c</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/54\">#54</a>: [FR] Install function should inform users of it's importance\n- <a href=\"https://github.com/Godlander/objmc/issues/23\">#23</a>: Add a way to export files directly instead of to the dir where objmc was ran.\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4#issuecomment-931794197\">👍</a>\n* <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4#issuecomment-931794684\">👍</a>\n* <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4#issuecomment-933866458\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension\">SnaveSutit/origins-mod-vscode-extension</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template\">SnaveSutit/blockbench-plugin-template</a>\n- <a href=\"https://github.com/SnaveSutit/figura-libs\">SnaveSutit/figura-libs</a>\n- <a href=\"https://github.com/SnaveSutit/world-template\">SnaveSutit/world-template</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/Animated-Java/animated-java/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/nbs-to-lua/commit/43c38d15a016421759b11c5d1b23316947ae7477\">43c38d1</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/1c94789716a4e4143465f199e1a6325138844f59\">1c94789</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/ce98263803fdb0424afe68391a8e742e2973892e\">ce98263</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/a2d37bb005ffac5540a9a80f97b2d5644f9925fc\">a2d37bb</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/5d5100436558a4cd2ef009f74357b4a162d3cca3\">5d51004</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/9ccfdef08795975a868ad05de1520498f83f020c\">9ccfdef</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/89731809fdf2d8da1855ab06052b144624022e73\">8973180</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/81e31a13a802423c4aa1e936ff71d0ddcbbe65af\">81e31a1</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/a4bee64f39179ebf1d5c8e5184991ec8641c0f85\">a4bee64</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/cda57978c185ea579740c86f1d06fba4ec94a196\">cda5797</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/63194b5192ceb1796f7ac806d0a08fc83d6136ff\">63194b5</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/d8c8d7282cd179777c788859922b10fc7dd05d05\">d8c8d72</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/c03cda76dbbb0700fc7e441c45f1fc5b3acbfbfd\">c03cda7</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a834273c8ccd624b85ae1bfdfedc8d47e6afa12b\">a834273</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7b4e3b4992614ba227d72ee49b7e4674b4cf9d10\">7b4e3b4</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/169f5df7a82a04f55de535f25fd2836ba35cc85f\">169f5df</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/0a6cd0748d3c97fe2ddd0b2517d8876ec151add7\">0a6cd07</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/e7a32885832bb19b0337829cf066e87bdca73004\">e7a3288</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/1a17952460ae68261adcbff6c32b900bbb75de58\">1a17952</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/54f4772d949ecf78cb918bc0a8faf66cfc3b8839\">54f4772</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/e887738ec2cd05ef3a00d35f4d391cde851f75d7\">e887738</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
