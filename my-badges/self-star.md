@@ -1,11 +1,85 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 4 my own repositories." title="I&apos;ve starred 4 my own repositories." width="128">
-<strong>I&apos;ve starred 4 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 78 my own repositories." title="I&apos;ve starred 78 my own repositories." width="128">
+<strong>I&apos;ve starred 78 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/SnaveSutit/origins-mod-vscode-extension">SnaveSutit/origins-mod-vscode-extension</a>
 - <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template</a>
 - <a href="https://github.com/SnaveSutit/figura-libs">SnaveSutit/figura-libs</a>
 - <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template</a>
+- <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD</a>
+- <a href="https://github.com/SnaveSutit/apugli-docs">SnaveSutit/apugli-docs</a>
+- <a href="https://github.com/SnaveSutit/bbanim-to-fsk">SnaveSutit/bbanim-to-fsk</a>
+- <a href="https://github.com/SnaveSutit/bedrock-schema">SnaveSutit/bedrock-schema</a>
+- <a href="https://github.com/SnaveSutit/beet">SnaveSutit/beet</a>
+- <a href="https://github.com/SnaveSutit/better-blockbench-blockbench-plugin">SnaveSutit/better-blockbench-blockbench-plugin</a>
+- <a href="https://github.com/SnaveSutit/blockbench">SnaveSutit/blockbench</a>
+- <a href="https://github.com/SnaveSutit/Blockbench-figura-plugin">SnaveSutit/Blockbench-figura-plugin</a>
+- <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter</a>
+- <a href="https://github.com/SnaveSutit/blockbench-plugins">SnaveSutit/blockbench-plugins</a>
+- <a href="https://github.com/SnaveSutit/blockbench-project-instancing">SnaveSutit/blockbench-project-instancing</a>
+- <a href="https://github.com/SnaveSutit/blockbench-types">SnaveSutit/blockbench-types</a>
+- <a href="https://github.com/SnaveSutit/cc-turtle-scripts">SnaveSutit/cc-turtle-scripts</a>
+- <a href="https://github.com/SnaveSutit/configurable-boats">SnaveSutit/configurable-boats</a>
+- <a href="https://github.com/SnaveSutit/Create">SnaveSutit/Create</a>
+- <a href="https://github.com/SnaveSutit/CustomTab">SnaveSutit/CustomTab</a>
+- <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon</a>
+- <a href="https://github.com/SnaveSutit/datapack-astar">SnaveSutit/datapack-astar</a>
+- <a href="https://github.com/SnaveSutit/datapack-lodestone-links">SnaveSutit/datapack-lodestone-links</a>
+- <a href="https://github.com/SnaveSutit/datapack-warp-stones">SnaveSutit/datapack-warp-stones</a>
+- <a href="https://github.com/SnaveSutit/deepslate">SnaveSutit/deepslate</a>
+- <a href="https://github.com/SnaveSutit/docs">SnaveSutit/docs</a>
+- <a href="https://github.com/SnaveSutit/double-sided-cubes-bbplugin">SnaveSutit/double-sided-cubes-bbplugin</a>
+- <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench</a>
+- <a href="https://github.com/SnaveSutit/Epoli-Docs">SnaveSutit/Epoli-Docs</a>
+- <a href="https://github.com/SnaveSutit/fabric-carpet">SnaveSutit/fabric-carpet</a>
+- <a href="https://github.com/SnaveSutit/factorio-modpack-generator">SnaveSutit/factorio-modpack-generator</a>
+- <a href="https://github.com/SnaveSutit/factoriomod-ConfigurableTrains">SnaveSutit/factoriomod-ConfigurableTrains</a>
+- <a href="https://github.com/SnaveSutit/Figura">SnaveSutit/Figura</a>
+- <a href="https://github.com/SnaveSutit/figura-avatar-scripts">SnaveSutit/figura-avatar-scripts</a>
+- <a href="https://github.com/SnaveSutit/figura-blockbench-plugin">SnaveSutit/figura-blockbench-plugin</a>
+- <a href="https://github.com/SnaveSutit/generic-stream">SnaveSutit/generic-stream</a>
+- <a href="https://github.com/SnaveSutit/GM4_Datapacks">SnaveSutit/GM4_Datapacks</a>
+- <a href="https://github.com/SnaveSutit/Google-Forms-to-Discord">SnaveSutit/Google-Forms-to-Discord</a>
+- <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb</a>
+- <a href="https://github.com/SnaveSutit/js-mc-server-wrapper">SnaveSutit/js-mc-server-wrapper</a>
+- <a href="https://github.com/SnaveSutit/lang-mc">SnaveSutit/lang-mc</a>
+- <a href="https://github.com/SnaveSutit/lang-mc-extra">SnaveSutit/lang-mc-extra</a>
+- <a href="https://github.com/SnaveSutit/language-mcbuild-lang-mc">SnaveSutit/language-mcbuild-lang-mc</a>
+- <a href="https://github.com/SnaveSutit/mc-build.github.io">SnaveSutit/mc-build.github.io</a>
+- <a href="https://github.com/SnaveSutit/mcb-beet">SnaveSutit/mcb-beet</a>
+- <a href="https://github.com/SnaveSutit/mcbuild">SnaveSutit/mcbuild</a>
+- <a href="https://github.com/SnaveSutit/mcbuild-template">SnaveSutit/mcbuild-template</a>
+- <a href="https://github.com/SnaveSutit/mcdata">SnaveSutit/mcdata</a>
+- <a href="https://github.com/SnaveSutit/mcmap-tankchess">SnaveSutit/mcmap-tankchess</a>
+- <a href="https://github.com/SnaveSutit/mcworld-astar">SnaveSutit/mcworld-astar</a>
+- <a href="https://github.com/SnaveSutit/mcworld-performance-dp">SnaveSutit/mcworld-performance-dp</a>
+- <a href="https://github.com/SnaveSutit/Minecraft">SnaveSutit/Minecraft</a>
+- <a href="https://github.com/SnaveSutit/minecraft-commands-performance-analysis">SnaveSutit/minecraft-commands-performance-analysis</a>
+- <a href="https://github.com/SnaveSutit/minecraft-java-command-parser">SnaveSutit/minecraft-java-command-parser</a>
+- <a href="https://github.com/SnaveSutit/minesweeper">SnaveSutit/minesweeper</a>
+- <a href="https://github.com/SnaveSutit/mythos-server-resource-pack">SnaveSutit/mythos-server-resource-pack</a>
+- <a href="https://github.com/SnaveSutit/nbs-to-lua">SnaveSutit/nbs-to-lua</a>
+- <a href="https://github.com/SnaveSutit/objmc">SnaveSutit/objmc</a>
+- <a href="https://github.com/SnaveSutit/origins-docs">SnaveSutit/origins-docs</a>
+- <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas</a>
+- <a href="https://github.com/SnaveSutit/particleman">SnaveSutit/particleman</a>
+- <a href="https://github.com/SnaveSutit/Patchbench">SnaveSutit/Patchbench</a>
+- <a href="https://github.com/SnaveSutit/PuffyBoi">SnaveSutit/PuffyBoi</a>
+- <a href="https://github.com/SnaveSutit/Remove-Seed-Mod">SnaveSutit/Remove-Seed-Mod</a>
+- <a href="https://github.com/SnaveSutit/scarpet-world-edit">SnaveSutit/scarpet-world-edit</a>
+- <a href="https://github.com/SnaveSutit/simple-folder-sync">SnaveSutit/simple-folder-sync</a>
+- <a href="https://github.com/SnaveSutit/snaves-tweaks-datapacks">SnaveSutit/snaves-tweaks-datapacks</a>
+- <a href="https://github.com/SnaveSutit/snavesutit">SnaveSutit/snavesutit</a>
+- <a href="https://github.com/SnaveSutit/SnaveSutit.github.io">SnaveSutit/SnaveSutit.github.io</a>
+- <a href="https://github.com/SnaveSutit/snavesutit.net">SnaveSutit/snavesutit.net</a>
+- <a href="https://github.com/SnaveSutit/Spyglass-MCB">SnaveSutit/Spyglass-MCB</a>
+- <a href="https://github.com/SnaveSutit/SquirrelWorldWiki">SnaveSutit/SquirrelWorldWiki</a>
+- <a href="https://github.com/SnaveSutit/sveltebench">SnaveSutit/sveltebench</a>
+- <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay</a>
+- <a href="https://github.com/SnaveSutit/vanish">SnaveSutit/vanish</a>
+- <a href="https://github.com/SnaveSutit/vscode-beet">SnaveSutit/vscode-beet</a>
+- <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch</a>
+- <a href="https://github.com/SnaveSutit/yeggs-summer-2022-submission">SnaveSutit/yeggs-summer-2022-submission</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
