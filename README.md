@@ -44,3 +44,10 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=ffffff)
+
+## My Badges[^1]
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+[^1]: Generated via https://github.com/my-badges/my-badges
