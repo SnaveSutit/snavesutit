@@ -30,24 +30,16 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 ![Static Badge](https://img.shields.io/badge/Source-333333?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FSnaveSutit%2Forigins-mod-vscode-extension)
 ![Static Badge](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZThlYWVkIj48cGF0aCBkPSJNNDQwLTI4MEgyODBxLTgzIDAtMTQxLjUtNTguNVQ4MC00ODBxMC04MyA1OC41LTE0MS41VDI4MC02ODBoMTYwdjgwSDI4MHEtNTAgMC04NSAzNXQtMzUgODVxMCA1MCAzNSA4NXQ4NSAzNWgxNjB2ODBaTTMyMC00NDB2LTgwaDMyMHY4MEgzMjBabTIwMCAxNjB2LTgwaDE2MHE1MCAwIDg1LTM1dDM1LTg1cTAtNTAtMzUtODV0LTg1LTM1SDUyMHYtODBoMTYwcTgzIDAgMTQxLjUgNTguNVQ4ODAtNDgwcTAgODMtNTguNSAxNDEuNVQ2ODAtMjgwSDUyMFoiLz48L3N2Zz4%3D&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DSnaveSutit.origins-mod-helper)
 
-## Software & Systems I've Worked With
+## Software & Systems I'm Proficient in
 
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Svelte](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=ffffff)
-![ESBuild](https://img.shields.io/badge/ESBuild-323330?style=for-the-badge&logo=esbuild&logoColor=FFCF00)
-![Vite](https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=646CFF)
+![icon-list](https://go-skill-icons.vercel.app/api/icons?i=godot,nodejs,js,ts,npm,yarn,electron,html,css,svelte,vscode,regex,git,github,githubactions,githubpages,githubcopilot,threejs,figma,windows,terminal,powershell,python,notion,lua,vite,vitest,bash,gimp,discord,bots,discordjs,slack,linux,mint,debian,steam)
+
 ![Blockbench](https://img.shields.io/badge/Blockbench-1e93d9?style=for-the-badge&logo=blockbench&logoColor=ffffff)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=ffffff)
 
 ## My Badges[^1]
 
 <!-- my-badges start -->
+
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
@@ -69,6 +61,7 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
+
 <!-- my-badges end -->
 
 [^1]: Generated via https://github.com/my-badges/my-badges
