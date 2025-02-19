@@ -39,7 +39,6 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 ## My Badges[^1]
 
 <!-- my-badges start -->
-
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
@@ -61,7 +60,6 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
-
 <!-- my-badges end -->
 
 [^1]: Generated via https://github.com/my-badges/my-badges
