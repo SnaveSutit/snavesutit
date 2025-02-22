@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/Animated-Java/animated-java/issues/385">#385</a>: [BUG] Converting to Blueprint does not Correctly Enforce Rotation Limitations
 - <a href="https://github.com/ajknowles11/chains-link/issues/2">#2</a>: Backport v2.0 to 1.16.1?
 - <a href="https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542">#542</a>: [1.12.2] Open Modular Turrets Crash
 - <a href="https://github.com/Animated-Java/animated-java/issues/45">#45</a>: [BUG] build_in_progress flag not being reset in some cases
 - <a href="https://github.com/Animated-Java/animated-java/issues/54">#54</a>: [FR] Install function should inform users of it's importance
-- <a href="https://github.com/Godlander/objmc/issues/23">#23</a>: Add a way to export files directly instead of to the dir where objmc was ran.
 
  And many more...
 

@@ -87,7 +87,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/54\">#54</a>: [FR] Install function should inform users of it's importance\n- <a href=\"https://github.com/Godlander/objmc/issues/23\">#23</a>: Add a way to export files directly instead of to the dir where objmc was ran.\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/385\">#385</a>: [BUG] Converting to Blueprint does not Correctly Enforce Rotation Limitations\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/54\">#54</a>: [FR] Install function should inform users of it's importance\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -122,14 +122,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/snavesutit/commit/e2fd84153909e78a3acba6178336c25d5bfc1033\">e2fd841</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/89731809fdf2d8da1855ab06052b144624022e73\">8973180</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/81e31a13a802423c4aa1e936ff71d0ddcbbe65af\">81e31a1</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/a4bee64f39179ebf1d5c8e5184991ec8641c0f85\">a4bee64</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/cda57978c185ea579740c86f1d06fba4ec94a196\">cda5797</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/63194b5192ceb1796f7ac806d0a08fc83d6136ff\">63194b5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/snavesutit/commit/e2fd84153909e78a3acba6178336c25d5bfc1033\">e2fd841</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/d18b9f4f5603192270e5346ec2d28238dac6119c\">d18b9f4</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/9ec2320deb0d747314a3dfbeaa5dfeda61bccaff\">9ec2320</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/07e20ea37c471090926059156d8ee4601122c4e5\">07e20ea</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/cda57978c185ea579740c86f1d06fba4ec94a196\">cda5797</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/63194b5192ceb1796f7ac806d0a08fc83d6136ff\">63194b5</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/c03cda76dbbb0700fc7e441c45f1fc5b3acbfbfd\">c03cda7</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a834273c8ccd624b85ae1bfdfedc8d47e6afa12b\">a834273</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7b4e3b4992614ba227d72ee49b7e4674b4cf9d10\">7b4e3b4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/4cd00e56dc389a33a8e533c907eac6b484605dfc\">4cd00e5</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a834273c8ccd624b85ae1bfdfedc8d47e6afa12b\">a834273</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7b4e3b4992614ba227d72ee49b7e4674b4cf9d10\">7b4e3b4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
