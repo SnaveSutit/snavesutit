@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 389 times)\n2. added (used 254 times)\n3. add (used 129 times)\n4. commit (used 125 times)\n5. fix (used 120 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 390 times)\n2. added (used 254 times)\n3. add (used 129 times)\n4. commit (used 125 times)\n5. fix (used 120 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/4cd00e56dc389a33a8e533c907eac6b484605dfc\">4cd00e5</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a834273c8ccd624b85ae1bfdfedc8d47e6afa12b\">a834273</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7b4e3b4992614ba227d72ee49b7e4674b4cf9d10\">7b4e3b4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/c220d65641c281c52581f09e2c74dd98536e4c97\">c220d65</a>\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/350c6abaa06afc7539c761308efd9416ef746c44\">350c6ab</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/4cd00e56dc389a33a8e533c907eac6b484605dfc\">4cd00e5</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
