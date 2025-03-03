@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 390 times)\n2. added (used 254 times)\n3. add (used 129 times)\n4. commit (used 125 times)\n5. fix (used 120 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 404 times)\n2. added (used 256 times)\n3. add (used 137 times)\n4. commit (used 125 times)\n5. fix (used 123 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/385\">#385</a>: [BUG] Converting to Blueprint does not Correctly Enforce Rotation Limitations\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/385\">#385</a>: [BUG] Converting to Blueprint does not Correctly Enforce Rotation Limitations\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/395\">#395</a>: ✨ Add a way to bulk-export Blueprints\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
