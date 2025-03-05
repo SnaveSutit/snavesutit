@@ -152,5 +152,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/a59c4deda54f5f6a866ef5afa7818c8a8352d174\">a59c4de</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/c3bf61f3c67cb14f89063e8967cd657f973aa79a\">c3bf61f</a>\n- <a href=\"https://github.com/SnaveSutit/world-template/commit/bd7abd361a196187d4cae18039891fe1b73b3d8a\">bd7abd3</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java.github.io/pull/3\">#3</a>: ✨ Add a search bar to docs",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]

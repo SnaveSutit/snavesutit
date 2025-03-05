@@ -61,6 +61,7 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <!-- my-badges end -->
 
 [^1]: Generated via https://github.com/my-badges/my-badges
