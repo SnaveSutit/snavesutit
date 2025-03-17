@@ -16,6 +16,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template: ★2</a>
 * <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter: ★2</a>
 * <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas: ★2</a>
+* <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★2</a>
 * <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon: ★1</a>
 * <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD: ★1</a>
 * <a href="https://github.com/SnaveSutit/Minecraft">SnaveSutit/Minecraft: ★1</a>
@@ -74,7 +75,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/sveltebench">SnaveSutit/sveltebench: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench-project-instancing">SnaveSutit/blockbench-project-instancing: ★1</a>
 * <a href="https://github.com/SnaveSutit/snavesutit">SnaveSutit/snavesutit: ★1</a>
-* <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/Spyglass-MCB">SnaveSutit/Spyglass-MCB: ★1</a>
 * <a href="https://github.com/SnaveSutit/mcb-beet">SnaveSutit/mcb-beet: ★1</a>
 * <a href="https://github.com/SnaveSutit/beet">SnaveSutit/beet: ★1</a>
