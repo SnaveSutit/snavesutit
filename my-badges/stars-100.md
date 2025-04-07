@@ -16,6 +16,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template: ★2</a>
 * <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter: ★2</a>
 * <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas: ★2</a>
+* <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★2</a>
 * <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★2</a>
 * <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon: ★1</a>
 * <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD: ★1</a>
@@ -70,7 +71,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/Epoli-Docs">SnaveSutit/Epoli-Docs: ★1</a>
 * <a href="https://github.com/SnaveSutit/js-mc-server-wrapper">SnaveSutit/js-mc-server-wrapper: ★1</a>
 * <a href="https://github.com/SnaveSutit/minesweeper">SnaveSutit/minesweeper: ★1</a>
-* <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench-plugins">SnaveSutit/blockbench-plugins: ★1</a>
 * <a href="https://github.com/SnaveSutit/sveltebench">SnaveSutit/sveltebench: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench-project-instancing">SnaveSutit/blockbench-project-instancing: ★1</a>
