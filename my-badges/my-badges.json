@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 405 times)\n2. added (used 264 times)\n3. add (used 138 times)\n4. commit (used 125 times)\n5. fix (used 123 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 420 times)\n2. added (used 264 times)\n3. add (used 142 times)\n4. commit (used 131 times)\n5. fix (used 128 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,21 +115,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/PersonalBurnerGenerator/commit/d9edbdbe4db303bce9c306eef12808dbbb3505fc\">d9edbdb</a>\n- <a href=\"https://github.com/SnaveSutit/nbs-to-lua/commit/43c38d15a016421759b11c5d1b23316947ae7477\">43c38d1</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/1c94789716a4e4143465f199e1a6325138844f59\">1c94789</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/ce98263803fdb0424afe68391a8e742e2973892e\">ce98263</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/a2d37bb005ffac5540a9a80f97b2d5644f9925fc\">a2d37bb</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/5d5100436558a4cd2ef009f74357b4a162d3cca3\">5d51004</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/d1b72e0f552d586a6e79774100eb8d769b2b524c\">d1b72e0</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/302199086971bc1ffb39210783c0ebe6a550a891\">3021990</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/b3dfc24a403f5d3371e71a42efc8e4e3e211baa2\">b3dfc24</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/887dd4f0ca0dad8b85f9b7efe3dc555cd24acf00\">887dd4f</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/7c9754dc2c9422c575ff3d239d0efbb22cb6f5e4\">7c9754d</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/89d518813a988a2dbf0f584f9d902c9189bb1bb5\">89d5188</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/snavesutit/commit/e2fd84153909e78a3acba6178336c25d5bfc1033\">e2fd841</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/d18b9f4f5603192270e5346ec2d28238dac6119c\">d18b9f4</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/9ec2320deb0d747314a3dfbeaa5dfeda61bccaff\">9ec2320</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/07e20ea37c471090926059156d8ee4601122c4e5\">07e20ea</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/cda57978c185ea579740c86f1d06fba4ec94a196\">cda5797</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/63194b5192ceb1796f7ac806d0a08fc83d6136ff\">63194b5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/9b1ef951cc5057cecd1612d40aead8cb5a7b2c8b\">9b1ef95</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/ddb9ea8a888692b41a53ff6a79d0dd45e6c1b6f2\">ddb9ea8</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/8c3eb8ebea59f4f94f8e1ec3a89607e30e4c895f\">8c3eb8e</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/3a3c4d60b9b491f3a44e81a3ee93abd5f15f528d\">3a3c4d6</a>\n- <a href=\"https://github.com/SnaveSutit/snavesutit/commit/e2fd84153909e78a3acba6178336c25d5bfc1033\">e2fd841</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/d18b9f4f5603192270e5346ec2d28238dac6119c\">d18b9f4</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/c220d65641c281c52581f09e2c74dd98536e4c97\">c220d65</a>\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/350c6abaa06afc7539c761308efd9416ef746c44\">350c6ab</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io/commit/4cd00e56dc389a33a8e533c907eac6b484605dfc\">4cd00e5</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/bec52aa5ce977bb20bac49445fe5cc175196fe37\">bec52aa</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/814ef60f4fa7e55a748d98178bbdb48922179013\">814ef60</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/fff95844239b44c0c892f943def3305e0329a84a\">fff9584</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/4c8733a502808905886404a755de7115acfe9f13\">4c8733a</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/bb0e0d92d1d547b3611fe78dd6aa5ee1c22c0daa\">bb0e0d9</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/7dfa5abf2e4c84b7dd1c08df31813d86dfb5a034\">7dfa5ab</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/07034bb99bf033dca2c60a961cb77139da6fc702\">07034bb</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/93dfc0bbe6ebbe0b8405ac6a4f6d9f206c1f640a\">93dfc0b</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/1835c5061d78bacfb676a11c9a90a98417451283\">1835c50</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
