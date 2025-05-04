@@ -6,8 +6,8 @@ Repos:
 
 * <a href="https://github.com/SnaveSutit/mcworld-astar">SnaveSutit/mcworld-astar: ★8</a>
 * <a href="https://github.com/SnaveSutit/language-mcbuild-lang-mc">SnaveSutit/language-mcbuild-lang-mc: ★4</a>
+* <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template: ★4</a>
 * <a href="https://github.com/SnaveSutit/figura-avatar-scripts">SnaveSutit/figura-avatar-scripts: ★3</a>
-* <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template: ★3</a>
 * <a href="https://github.com/SnaveSutit/mcworld-performance-dp">SnaveSutit/mcworld-performance-dp: ★3</a>
 * <a href="https://github.com/LunarClient/molangkit">LunarClient/molangkit: ★3</a>
 * <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay: ★2</a>
