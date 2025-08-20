@@ -9,8 +9,8 @@ Repos:
 * <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template: ★4</a>
 * <a href="https://github.com/SnaveSutit/mcworld-performance-dp">SnaveSutit/mcworld-performance-dp: ★4</a>
 * <a href="https://github.com/SnaveSutit/figura-avatar-scripts">SnaveSutit/figura-avatar-scripts: ★3</a>
+* <a href="https://github.com/SnaveSutit/Figura">SnaveSutit/Figura: ★3</a>
 * <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay: ★2</a>
-* <a href="https://github.com/SnaveSutit/Figura">SnaveSutit/Figura: ★2</a>
 * <a href="https://github.com/SnaveSutit/configurable-boats">SnaveSutit/configurable-boats: ★2</a>
 * <a href="https://github.com/SnaveSutit/figura-libs">SnaveSutit/figura-libs: ★2</a>
 * <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template: ★2</a>
