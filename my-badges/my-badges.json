@@ -159,5 +159,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java.github.io/pull/3\">#3</a>: ✨ Add a search bar to docs",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
