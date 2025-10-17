@@ -10,6 +10,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/figura-avatar-scripts">SnaveSutit/figura-avatar-scripts: ★3</a>
 * <a href="https://github.com/SnaveSutit/Figura">SnaveSutit/Figura: ★3</a>
 * <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template: ★3</a>
+* <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★3</a>
 * <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay: ★2</a>
 * <a href="https://github.com/SnaveSutit/configurable-boats">SnaveSutit/configurable-boats: ★2</a>
 * <a href="https://github.com/SnaveSutit/figura-libs">SnaveSutit/figura-libs: ★2</a>
@@ -17,7 +18,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter: ★2</a>
 * <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas: ★2</a>
 * <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★2</a>
-* <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★2</a>
 * <a href="https://github.com/SnaveSutit/mcb-beet">SnaveSutit/mcb-beet: ★2</a>
 * <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon: ★1</a>
 * <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD: ★1</a>
