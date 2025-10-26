@@ -81,6 +81,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/Patchbench">SnaveSutit/Patchbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench">SnaveSutit/blockbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch: ★1</a>
+* <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
