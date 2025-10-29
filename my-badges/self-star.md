@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 78 my own repositories." title="I&apos;ve starred 78 my own repositories." width="128">
-<strong>I&apos;ve starred 78 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 77 my own repositories." title="I&apos;ve starred 77 my own repositories." width="128">
+<strong>I&apos;ve starred 77 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/SnaveSutit/origins-mod-vscode-extension">SnaveSutit/origins-mod-vscode-extension</a>
@@ -63,7 +63,6 @@
 - <a href="https://github.com/SnaveSutit/origins-docs">SnaveSutit/origins-docs</a>
 - <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas</a>
 - <a href="https://github.com/SnaveSutit/particleman">SnaveSutit/particleman</a>
-- <a href="https://github.com/SnaveSutit/Patchbench">SnaveSutit/Patchbench</a>
 - <a href="https://github.com/SnaveSutit/PuffyBoi">SnaveSutit/PuffyBoi</a>
 - <a href="https://github.com/SnaveSutit/Remove-Seed-Mod">SnaveSutit/Remove-Seed-Mod</a>
 - <a href="https://github.com/SnaveSutit/scarpet-world-edit">SnaveSutit/scarpet-world-edit</a>

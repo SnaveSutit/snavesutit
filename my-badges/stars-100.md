@@ -78,7 +78,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/Spyglass-MCB">SnaveSutit/Spyglass-MCB: ★1</a>
 * <a href="https://github.com/SnaveSutit/beet">SnaveSutit/beet: ★1</a>
 * <a href="https://github.com/SnaveSutit/vscode-beet">SnaveSutit/vscode-beet: ★1</a>
-* <a href="https://github.com/SnaveSutit/Patchbench">SnaveSutit/Patchbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench">SnaveSutit/blockbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch: ★1</a>
 * <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli: ★1</a>
