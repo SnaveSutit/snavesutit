@@ -166,5 +166,12 @@
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/LunarClient/molangkit/pull/10\">#10</a>: Revert arc functions mistakenly expecting degrees",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   }
 ]
