@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 448 times)\n2. added (used 268 times)\n3. commit (used 181 times)\n4. add (used 144 times)\n5. fix (used 142 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 448 times)\n2. added (used 268 times)\n3. commit (used 184 times)\n4. add (used 144 times)\n5. fix (used 142 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/envbench-plugin/commit/525921925db0999efe542eff0b7db38b5e11f893\">5259219</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/681882e561f36c25b24db1f4173835f8ea4a9ca7\">681882e</a>\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/c61d25c2738e6a804240f4edd72ce5240bb2441a\">c61d25c</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/8bb434da035549f2e338863fe27e5f602477bccf\">8bb434d</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/86bbaa40fa114245d2ae633e99af3e9903009b9f\">86bbaa4</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench/commit/9bf8e0a17cfde8a1cd3c151645ef3a5245a3813c\">9bf8e0a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/svelte-patching-tools/commit/5bca886efdd7a8bc3f770a069cf28c10800b3804\">5bca886</a>\n- <a href=\"https://github.com/SnaveSutit/envbench-plugin/commit/525921925db0999efe542eff0b7db38b5e11f893\">5259219</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/681882e561f36c25b24db1f4173835f8ea4a9ca7\">681882e</a>\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk/commit/c61d25c2738e6a804240f4edd72ce5240bb2441a\">c61d25c</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/8bb434da035549f2e338863fe27e5f602477bccf\">8bb434d</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/86bbaa40fa114245d2ae633e99af3e9903009b9f\">86bbaa4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
