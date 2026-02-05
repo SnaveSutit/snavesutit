@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 448 times)\n2. added (used 268 times)\n3. commit (used 185 times)\n4. fix (used 145 times)\n5. add (used 144 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 448 times)\n2. added (used 268 times)\n3. commit (used 186 times)\n4. fix (used 145 times)\n5. add (used 144 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -159,13 +159,6 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java.github.io/pull/3\">#3</a>: ✨ Add a search bar to docs",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
-    "id": "pr-collaboration-5",
-    "tier": 1,
-    "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/LunarClient/molangkit/pull/10\">#10</a>: Revert arc functions mistakenly expecting degrees",
-    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "old-issue-2",
