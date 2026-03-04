@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 77 my own repositories." title="I&apos;ve starred 77 my own repositories." width="128">
-<strong>I&apos;ve starred 77 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 94 my own repositories." title="I&apos;ve starred 94 my own repositories." width="128">
+<strong>I&apos;ve starred 94 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/SnaveSutit/origins-mod-vscode-extension">SnaveSutit/origins-mod-vscode-extension</a>
@@ -79,6 +79,23 @@
 - <a href="https://github.com/SnaveSutit/vscode-beet">SnaveSutit/vscode-beet</a>
 - <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch</a>
 - <a href="https://github.com/SnaveSutit/yeggs-summer-2022-submission">SnaveSutit/yeggs-summer-2022-submission</a>
+- <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli</a>
+- <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025">SnaveSutit/yeggs-mapjam-spring-2025</a>
+- <a href="https://github.com/SnaveSutit/godot-state-machine">SnaveSutit/godot-state-machine</a>
+- <a href="https://github.com/SnaveSutit/svelte-patching-tools">SnaveSutit/svelte-patching-tools</a>
+- <a href="https://github.com/SnaveSutit/simple-subpub">SnaveSutit/simple-subpub</a>
+- <a href="https://github.com/SnaveSutit/svelte-observable-store">SnaveSutit/svelte-observable-store</a>
+- <a href="https://github.com/SnaveSutit/envbench-plugin">SnaveSutit/envbench-plugin</a>
+- <a href="https://github.com/SnaveSutit/esbuild-plugin-import-folder">SnaveSutit/esbuild-plugin-import-folder</a>
+- <a href="https://github.com/SnaveSutit/my-node-project-template">SnaveSutit/my-node-project-template</a>
+- <a href="https://github.com/SnaveSutit/syntax-mcfunction">SnaveSutit/syntax-mcfunction</a>
+- <a href="https://github.com/SnaveSutit/cc-remote-workspace">SnaveSutit/cc-remote-workspace</a>
+- <a href="https://github.com/SnaveSutit/polygonal-quality-icons">SnaveSutit/polygonal-quality-icons</a>
+- <a href="https://github.com/SnaveSutit/ch-concentrated-solar">SnaveSutit/ch-concentrated-solar</a>
+- <a href="https://github.com/SnaveSutit/scripts-and-tools">SnaveSutit/scripts-and-tools</a>
+- <a href="https://github.com/SnaveSutit/mc-build-utilities">SnaveSutit/mc-build-utilities</a>
+- <a href="https://github.com/SnaveSutit/PersonalBurnerGenerator">SnaveSutit/PersonalBurnerGenerator</a>
+- <a href="https://github.com/SnaveSutit/mc-dp-icons">SnaveSutit/mc-dp-icons</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

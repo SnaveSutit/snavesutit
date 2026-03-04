@@ -4,11 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/SnaveSutit/mcworld-astar">SnaveSutit/mcworld-astar: ★8</a>
-* <a href="https://github.com/SnaveSutit/language-mcbuild-lang-mc">SnaveSutit/language-mcbuild-lang-mc: ★4</a>
-* <a href="https://github.com/SnaveSutit/mcworld-performance-dp">SnaveSutit/mcworld-performance-dp: ★4</a>
-* <a href="https://github.com/SnaveSutit/envbench">SnaveSutit/envbench: ★4</a>
-* <a href="https://github.com/SnaveSutit/figura-avatar-scripts">SnaveSutit/figura-avatar-scripts: ★3</a>
 * <a href="https://github.com/SnaveSutit/Figura">SnaveSutit/Figura: ★3</a>
 * <a href="https://github.com/SnaveSutit/world-template">SnaveSutit/world-template: ★3</a>
 * <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay: ★2</a>
@@ -19,6 +14,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas: ★2</a>
 * <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★2</a>
 * <a href="https://github.com/SnaveSutit/mcb-beet">SnaveSutit/mcb-beet: ★2</a>
+* <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli: ★2</a>
 * <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon: ★1</a>
 * <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD: ★1</a>
 * <a href="https://github.com/SnaveSutit/Minecraft">SnaveSutit/Minecraft: ★1</a>
@@ -80,7 +76,22 @@ Repos:
 * <a href="https://github.com/SnaveSutit/vscode-beet">SnaveSutit/vscode-beet: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench">SnaveSutit/blockbench: ★1</a>
 * <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch: ★1</a>
-* <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli: ★1</a>
+* <a href="https://github.com/SnaveSutit/mc-dp-icons">SnaveSutit/mc-dp-icons: ★1</a>
+* <a href="https://github.com/SnaveSutit/PersonalBurnerGenerator">SnaveSutit/PersonalBurnerGenerator: ★1</a>
+* <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025">SnaveSutit/yeggs-mapjam-spring-2025: ★1</a>
+* <a href="https://github.com/SnaveSutit/mc-build-utilities">SnaveSutit/mc-build-utilities: ★1</a>
+* <a href="https://github.com/SnaveSutit/scripts-and-tools">SnaveSutit/scripts-and-tools: ★1</a>
+* <a href="https://github.com/SnaveSutit/ch-concentrated-solar">SnaveSutit/ch-concentrated-solar: ★1</a>
+* <a href="https://github.com/SnaveSutit/polygonal-quality-icons">SnaveSutit/polygonal-quality-icons: ★1</a>
+* <a href="https://github.com/SnaveSutit/cc-remote-workspace">SnaveSutit/cc-remote-workspace: ★1</a>
+* <a href="https://github.com/SnaveSutit/syntax-mcfunction">SnaveSutit/syntax-mcfunction: ★1</a>
+* <a href="https://github.com/SnaveSutit/esbuild-plugin-import-folder">SnaveSutit/esbuild-plugin-import-folder: ★1</a>
+* <a href="https://github.com/SnaveSutit/my-node-project-template">SnaveSutit/my-node-project-template: ★1</a>
+* <a href="https://github.com/SnaveSutit/envbench-plugin">SnaveSutit/envbench-plugin: ★1</a>
+* <a href="https://github.com/SnaveSutit/svelte-patching-tools">SnaveSutit/svelte-patching-tools: ★1</a>
+* <a href="https://github.com/SnaveSutit/svelte-observable-store">SnaveSutit/svelte-observable-store: ★1</a>
+* <a href="https://github.com/SnaveSutit/simple-subpub">SnaveSutit/simple-subpub: ★1</a>
+* <a href="https://github.com/SnaveSutit/godot-state-machine">SnaveSutit/godot-state-machine: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

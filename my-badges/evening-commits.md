@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/SnaveSutit/svelte-patching-tools/commit/601d0a42425676517f7f8343c9bff7d2df86e438">601d0a4</a>
-- <a href="https://github.com/SnaveSutit/svelte-patching-tools/commit/5bca886efdd7a8bc3f770a069cf28c10800b3804">5bca886</a>
-- <a href="https://github.com/SnaveSutit/envbench-plugin/commit/525921925db0999efe542eff0b7db38b5e11f893">5259219</a>
-- <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/681882e561f36c25b24db1f4173835f8ea4a9ca7">681882e</a>
-- <a href="https://github.com/SnaveSutit/bbanim-to-fsk/commit/c61d25c2738e6a804240f4edd72ce5240bb2441a">c61d25c</a>
-- <a href="https://github.com/SnaveSutit/envbench/commit/8bb434da035549f2e338863fe27e5f602477bccf">8bb434d</a>
+- <a href="https://github.com/SnaveSutit/blockbench-patch-manager/commit/777b92a1cf55164c8fd2423644704bfee78eb6e3">777b92a</a>
+- <a href="https://github.com/SnaveSutit/blockbench-patch-manager/commit/8d0f683cbf084fafcea3ecb9b43c6d91afb36895">8d0f683</a>
+- <a href="https://github.com/SnaveSutit/simple-subpub/commit/7eb6874161534c4cce8106ef4b74a9401f1f8f45">7eb6874</a>
+- <a href="https://github.com/SnaveSutit/simple-subpub/commit/abb8f67d27cbf6d9529c052e384b9071b932def0">abb8f67</a>
+- <a href="https://github.com/SnaveSutit/simple-subpub/commit/a25912370c3163dc8d2b44eebcdc443e5aafb285">a259123</a>
+- <a href="https://github.com/SnaveSutit/simple-subpub/commit/d3e5c647c6870dcc2620823d1db8f37845b98229">d3e5c64</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
