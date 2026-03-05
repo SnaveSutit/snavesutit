@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/SnaveSutit/mcworld-astar/commit/018169f746265b1cb4d11cbe6c86375c90e457c0">018169f</a>
 - <a href="https://github.com/SnaveSutit/polygonal-quality-icons/commit/ade02c52de6b35d2de995aab10939137acfee13a">ade02c5</a>
 - <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/9b1ef951cc5057cecd1612d40aead8cb5a7b2c8b">9b1ef95</a>
 - <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/ddb9ea8a888692b41a53ff6a79d0dd45e6c1b6f2">ddb9ea8</a>
 - <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/8c3eb8ebea59f4f94f8e1ec3a89607e30e4c895f">8c3eb8e</a>
 - <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/3a3c4d60b9b491f3a44e81a3ee93abd5f15f528d">3a3c4d6</a>
-- <a href="https://github.com/SnaveSutit/snavesutit/commit/e2fd84153909e78a3acba6178336c25d5bfc1033">e2fd841</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
