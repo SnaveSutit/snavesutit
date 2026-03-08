@@ -15,6 +15,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★2</a>
 * <a href="https://github.com/SnaveSutit/mcb-beet">SnaveSutit/mcb-beet: ★2</a>
 * <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli: ★2</a>
+* <a href="https://github.com/SnaveSutit/godot-state-machine">SnaveSutit/godot-state-machine: ★2</a>
 * <a href="https://github.com/SnaveSutit/CyberwareAddon">SnaveSutit/CyberwareAddon: ★1</a>
 * <a href="https://github.com/SnaveSutit/AESTD">SnaveSutit/AESTD: ★1</a>
 * <a href="https://github.com/SnaveSutit/Minecraft">SnaveSutit/Minecraft: ★1</a>
@@ -91,7 +92,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/svelte-patching-tools">SnaveSutit/svelte-patching-tools: ★1</a>
 * <a href="https://github.com/SnaveSutit/svelte-observable-store">SnaveSutit/svelte-observable-store: ★1</a>
 * <a href="https://github.com/SnaveSutit/simple-subpub">SnaveSutit/simple-subpub: ★1</a>
-* <a href="https://github.com/SnaveSutit/godot-state-machine">SnaveSutit/godot-state-machine: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
