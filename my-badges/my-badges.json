@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 474 times)\n2. added (used 282 times)\n3. commit (used 189 times)\n4. fix (used 155 times)\n5. add (used 148 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 471 times)\n2. added (used 281 times)\n3. commit (used 188 times)\n4. fix (used 155 times)\n5. add (used 148 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/aj-booth-smithed-summit-2026/commit/cd0aae8c748a6997b1063980b010f5a5cf2bf6e5\">cd0aae8</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/777b92a1cf55164c8fd2423644704bfee78eb6e3\">777b92a</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/8d0f683cbf084fafcea3ecb9b43c6d91afb36895\">8d0f683</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/7eb6874161534c4cce8106ef4b74a9401f1f8f45\">7eb6874</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/abb8f67d27cbf6d9529c052e384b9071b932def0\">abb8f67</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/a25912370c3163dc8d2b44eebcdc443e5aafb285\">a259123</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/777b92a1cf55164c8fd2423644704bfee78eb6e3\">777b92a</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/8d0f683cbf084fafcea3ecb9b43c6d91afb36895\">8d0f683</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/7eb6874161534c4cce8106ef4b74a9401f1f8f45\">7eb6874</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/abb8f67d27cbf6d9529c052e384b9071b932def0\">abb8f67</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/a25912370c3163dc8d2b44eebcdc443e5aafb285\">a259123</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub/commit/d3e5c647c6870dcc2620823d1db8f37845b98229\">d3e5c64</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
