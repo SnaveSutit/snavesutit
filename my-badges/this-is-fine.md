@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/Animated-Java/animated-java.github.io/pull/3">#3</a>: ✨ Add a search bar to docs
+- <a href="https://github.com/Animated-Java/animated-java/pull/489">#489</a>: 🔖 v1.10.0-beta.5
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

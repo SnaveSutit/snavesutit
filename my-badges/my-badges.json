@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 473 times)\n2. added (used 281 times)\n3. commit (used 188 times)\n4. fix (used 166 times)\n5. add (used 148 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 473 times)\n2. added (used 281 times)\n3. commit (used 188 times)\n4. fix (used 167 times)\n5. add (used 148 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/ca0e2f58b3cc05f884dcaca4d1112dc2a25eeac0\">ca0e2f5</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/2949dbbf526b9fb5c50937722da27c0a8c17d472\">2949dbb</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/7b7b7ae6f8110264a056c51afbb82f947a06a47c\">7b7b7ae</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/6cf66aa0fa56c97bb5558caa1d834c0bf255dec5\">6cf66aa</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/6f58d29940f1a01ca45d2e7155a0753b65d6776b\">6f58d29</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/19203c4bce38ffae26c77f19635d9c28aaaf3c0a\">19203c4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/7cf8e970b65c263dc3464bcff24d34d847f41f64\">7cf8e97</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/c5c90016add9f4a847c16f680aab0b141e013854\">c5c9001</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/1c9fa63ad70e98309e48ca77cb418c1c7471bda6\">1c9fa63</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/ca0e2f58b3cc05f884dcaca4d1112dc2a25eeac0\">ca0e2f5</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/2949dbbf526b9fb5c50937722da27c0a8c17d472\">2949dbb</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/7b7b7ae6f8110264a056c51afbb82f947a06a47c\">7b7b7ae</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/6392ce9cac9f5e0d197d36a3cae0b76931cc000d\">6392ce9</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/3acfa658c1c1b4b019329004735dce032560f6d2\">3acfa65</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/pull/489\">#489</a>: 🔖 v1.10.0-beta.5",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
