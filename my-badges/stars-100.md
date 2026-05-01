@@ -68,7 +68,6 @@ Repos:
 * <a href="https://github.com/SnaveSutit/Epoli-Docs">SnaveSutit/Epoli-Docs: ★1</a>
 * <a href="https://github.com/SnaveSutit/js-mc-server-wrapper">SnaveSutit/js-mc-server-wrapper: ★1</a>
 * <a href="https://github.com/SnaveSutit/minesweeper">SnaveSutit/minesweeper: ★1</a>
-* <a href="https://github.com/SnaveSutit/blockbench-plugins">SnaveSutit/blockbench-plugins: ★1</a>
 * <a href="https://github.com/SnaveSutit/sveltebench">SnaveSutit/sveltebench: ★1</a>
 * <a href="https://github.com/SnaveSutit/blockbench-project-instancing">SnaveSutit/blockbench-project-instancing: ★1</a>
 * <a href="https://github.com/SnaveSutit/snavesutit">SnaveSutit/snavesutit: ★1</a>

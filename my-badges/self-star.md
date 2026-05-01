@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 94 my own repositories." title="I&apos;ve starred 94 my own repositories." width="128">
-<strong>I&apos;ve starred 94 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 93 my own repositories." title="I&apos;ve starred 93 my own repositories." width="128">
+<strong>I&apos;ve starred 93 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/SnaveSutit/origins-mod-vscode-extension">SnaveSutit/origins-mod-vscode-extension</a>
@@ -15,7 +15,6 @@
 - <a href="https://github.com/SnaveSutit/blockbench">SnaveSutit/blockbench</a>
 - <a href="https://github.com/SnaveSutit/Blockbench-figura-plugin">SnaveSutit/Blockbench-figura-plugin</a>
 - <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter</a>
-- <a href="https://github.com/SnaveSutit/blockbench-plugins">SnaveSutit/blockbench-plugins</a>
 - <a href="https://github.com/SnaveSutit/blockbench-project-instancing">SnaveSutit/blockbench-project-instancing</a>
 - <a href="https://github.com/SnaveSutit/blockbench-types">SnaveSutit/blockbench-types</a>
 - <a href="https://github.com/SnaveSutit/cc-turtle-scripts">SnaveSutit/cc-turtle-scripts</a>
