@@ -199,7 +199,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/pull/489\">#489</a>: 🔖 v1.10.0-beta.5",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/pull/489\">#489</a>: 🔖 v1.10.0-beta.5\n- <a href=\"https://github.com/Animated-Java/animated-java/pull/492\">#492</a>: 🔖 v1.10.0-beta.6\n- <a href=\"https://github.com/Animated-Java/animated-java/pull/493\">#493</a>: 🩹 Add missing fixes to 1.10.0-beta.6 changelog",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
