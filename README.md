@@ -4,41 +4,48 @@ I'm a software developer and game developer from the United States.
 
 ## 🗣️ About Me
 
-I enjoy making tools and software that make people's lives easier, and I'm always looking for new ways to improve my skills.
+I enjoy making tools and software that make people's lives easier, and I'm always looking for new ways to improve my skills and expand my knowledge.
 
-My current big project is a Blockbench plugin called Animated Java, which aims to improve the animation workflow for Minecraft: Java Edition Data Pack and Adventure Map developers.
+I enjoy games like Minecraft, Factorio, R.E.P.O., A Bumpy Ride, and BeamNG.Drive.
 
-I like Steam trains, Factorio, BeamNG.Drive, and the color #00aced.
+My favorite color is #00aced.
 
 ## 📫 Contact Me
 
-You can reach me on Discord as `SnaveSutit` or on Twitter as `@SnaveSutit`.
+You can reach me on Discord as `SnaveSutit` or via email at `SnaveSutitBusiness@gmail.com`
 
 ## 🚧 Projects
 
-### <img src="https://raw.githubusercontent.com/Animated-Java/animated-java/refs/heads/main/src/assets/animated_java_icon.svg" width="32px" align="left"/>Animated Java
+### <img src="https://raw.githubusercontent.com/Animated-Java/animated-java/refs/heads/main/src/assets/icons/animated_java_fancy_icon_centered.svg" width="64px" align="left"/>Animated Java
 
-A Blockbench plugin that makes complex animation a breeze in Minecraft: Java Edition.
+Effortlessly craft complex animations for Minecraft: Java Edition
 
-![Static Badge](https://img.shields.io/badge/Source-333333?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FAnimated-Java%2Fanimated-java)
-![Static Badge](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZThlYWVkIj48cGF0aCBkPSJNNDQwLTI4MEgyODBxLTgzIDAtMTQxLjUtNTguNVQ4MC00ODBxMC04MyA1OC41LTE0MS41VDI4MC02ODBoMTYwdjgwSDI4MHEtNTAgMC04NSAzNXQtMzUgODVxMCA1MCAzNSA4NXQ4NSAzNWgxNjB2ODBaTTMyMC00NDB2LTgwaDMyMHY4MEgzMjBabTIwMCAxNjB2LTgwaDE2MHE1MCAwIDg1LTM1dDM1LTg1cTAtNTAtMzUtODV0LTg1LTM1SDUyMHYtODBoMTYwcTgzIDAgMTQxLjUgNTguNVQ4ODAtNDgwcTAgODMtNTguNSAxNDEuNVQ2ODAtMjgwSDUyMFoiLz48L3N2Zz4%3D&link=https%3A%2F%2Fanimated-java.dev%2F)
+[![Static Badge](https://img.shields.io/badge/Source-333333?style=flat-square&logo=github&labelColor=555555)](https://github.com/Animated-Java/animated-java)
+[![Static Badge](https://img.shields.io/badge/Website-333333?style=flat-square&labelColor=555555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZThlYWVkIj48cGF0aCBkPSJNNDQwLTI4MEgyODBxLTgzIDAtMTQxLjUtNTguNVQ4MC00ODBxMC04MyA1OC41LTE0MS41VDI4MC02ODBoMTYwdjgwSDI4MHEtNTAgMC04NSAzNXQtMzUgODVxMCA1MCAzNSA4NXQ4NSAzNWgxNjB2ODBaTTMyMC00NDB2LTgwaDMyMHY4MEgzMjBabTIwMCAxNjB2LTgwaDE2MHE1MCAwIDg1LTM1dDM1LTg1cTAtNTAtMzUtODV0LTg1LTM1SDUyMHYtODBoMTYwcTgzIDAgMTQxLjUgNTguNVQ4ODAtNDgwcTAgODMtNTguNSAxNDEuNVQ2ODAtMjgwSDUyMFoiLz48L3N2Zz4%3D)](https://animated-java.dev/)
 
-### <img src="https://github.com/SnaveSutit/origins-mod-vscode-extension/blob/main/icon.png?raw=true" width="32px" align="left"/>Origins JSON Schemas VSCode Extension
+### <img src="https://github.com/SnaveSutit/origins-mod-vscode-extension/blob/main/icon.png?raw=true" width="64px" align="left"/>Origins JSON Schemas VSCode Extension
 
 A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 
-![Static Badge](https://img.shields.io/badge/Source-333333?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FSnaveSutit%2Forigins-mod-vscode-extension)
-![Static Badge](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZThlYWVkIj48cGF0aCBkPSJNNDQwLTI4MEgyODBxLTgzIDAtMTQxLjUtNTguNVQ4MC00ODBxMC04MyA1OC41LTE0MS41VDI4MC02ODBoMTYwdjgwSDI4MHEtNTAgMC04NSAzNXQtMzUgODVxMCA1MCAzNSA4NXQ4NSAzNWgxNjB2ODBaTTMyMC00NDB2LTgwaDMyMHY4MEgzMjBabTIwMCAxNjB2LTgwaDE2MHE1MCAwIDg1LTM1dDM1LTg1cTAtNTAtMzUtODV0LTg1LTM1SDUyMHYtODBoMTYwcTgzIDAgMTQxLjUgNTguNVQ4ODAtNDgwcTAgODMtNTguNSAxNDEuNVQ2ODAtMjgwSDUyMFoiLz48L3N2Zz4%3D&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DSnaveSutit.origins-mod-helper)
+[![Static Badge](https://img.shields.io/badge/Source-333333?style=flat-square&logo=github&labelColor=555555)](https://github.com/SnaveSutit/origins-mod-vscode-extension)
+[![Static Badge](https://img.shields.io/badge/Website-333333?style=flat-square&labelColor=555555&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZThlYWVkIj48cGF0aCBkPSJNNDQwLTI4MEgyODBxLTgzIDAtMTQxLjUtNTguNVQ4MC00ODBxMC04MyA1OC41LTE0MS41VDI4MC02ODBoMTYwdjgwSDI4MHEtNTAgMC04NSAzNXQtMzUgODVxMCA1MCAzNSA4NXQ4NSAzNWgxNjB2ODBaTTMyMC00NDB2LTgwaDMyMHY4MEgzMjBabTIwMCAxNjB2LTgwaDE2MHE1MCAwIDg1LTM1dDM1LTg1cTAtNTAtMzUtODV0LTg1LTM1SDUyMHYtODBoMTYwcTgzIDAgMTQxLjUgNTguNVQ4ODAtNDgwcTAgODMtNTguNSAxNDEuNVQ2ODAtMjgwSDUyMFoiLz48L3N2Zz4%3D)](https://marketplace.visualstudio.com/items?itemName=SnaveSutit.origins-mod-helper)
+
+### <img src="https://raw.githubusercontent.com/SnaveSutit/envbench/refs/heads/main/assets/envbench-logo.svg" width="64px" align="left"/>EnvBench
+
+A command-line tool for managing multiple Blockbench installations.
+
+[![Static Badge](https://img.shields.io/badge/Source-333333?style=flat-square&logo=github&labelColor=555555)](https://github.com/SnaveSutit/envbench)
 
 ## Software & Systems I'm Proficient in
 
-![icon-list](https://go-skill-icons.vercel.app/api/icons?i=godot,nodejs,js,ts,npm,yarn,electron,html,css,svelte,vscode,regex,git,github,githubactions,githubpages,githubcopilot,threejs,figma,windows,terminal,powershell,python,notion,lua,vite,vitest,bash,gimp,discord,bots,discordjs,slack,linux,mint,debian,steam)
+![icon-list](https://go-skill-icons.vercel.app/api/icons?i=godot,ts,js,nodejs,npm,bun,yarn,electron,html,css,svelte,vscode,zed,lua,regex,git,github,githubactions,githubpages,githubcopilot,threejs,figma,windows,terminal,powershell,python,notion,rust,vite,vitest,bash,gimp,discord,bots,discordjs,slack,linux,mint,debian,steam)
 
 ![Blockbench](https://img.shields.io/badge/Blockbench-1e93d9?style=for-the-badge&logo=blockbench&logoColor=ffffff)
 
 ## My Badges[^1]
 
 <!-- my-badges start -->
+
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
@@ -68,6 +75,7 @@ A Visual Studio Code extension that provides JSON schemas for the Origins mod.
 <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
 <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
+
 <!-- my-badges end -->
 
 [^1]: Generated via https://github.com/my-badges/my-badges
