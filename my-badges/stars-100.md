@@ -91,6 +91,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/svelte-patching-tools">SnaveSutit/svelte-patching-tools: ★1</a>
 * <a href="https://github.com/SnaveSutit/svelte-observable-store">SnaveSutit/svelte-observable-store: ★1</a>
 * <a href="https://github.com/SnaveSutit/simple-subpub">SnaveSutit/simple-subpub: ★1</a>
+* <a href="https://github.com/SnaveSutit/book-and-quill">SnaveSutit/book-and-quill: ★1</a>
 * <a href="https://github.com/Embody-Games/Brush-Tuna">Embody-Games/Brush-Tuna: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
