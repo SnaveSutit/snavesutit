@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 487 times)\n2. added (used 281 times)\n3. commit (used 190 times)\n4. fix (used 179 times)\n5. add (used 155 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 488 times)\n2. added (used 281 times)\n3. commit (used 190 times)\n4. fix (used 180 times)\n5. add (used 155 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/385\">#385</a>: [BUG] Converting to Blueprint does not Correctly Enforce Rotation Limitations\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/396\">#396</a>: 🐛 Bones do not inherit step interpolation in-game\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/396\">#396</a>: 🐛 Bones do not inherit step interpolation in-game\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/9261e5117444914283fa635d6748193726a1786f\">9261e51</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/c017437522e12509018960f62f91689f10fa8e6c\">c017437</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/f149a8ad83d84ce0423f6bac14c47d05692c00d0\">f149a8a</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/05d6e9445ec80429b5f257fb7214709cc9c7f231\">05d6e94</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/5cfdc4fdf31db0b9102dd1a9cbffe29f74163c88\">5cfdc4f</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/5a2f2d80bdb479b68ef5792f3734767461045387\">5a2f2d8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/9261e5117444914283fa635d6748193726a1786f\">9261e51</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/c017437522e12509018960f62f91689f10fa8e6c\">c017437</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/f149a8ad83d84ce0423f6bac14c47d05692c00d0\">f149a8a</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/aa86a97e5761aeaec9ddec6d9a74a04a1da17e03\">aa86a97</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/05d6e9445ec80429b5f257fb7214709cc9c7f231\">05d6e94</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/33ae6f1fa7c17e0475ae79c4c0976a116a565a57\">33ae6f1</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {
