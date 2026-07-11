@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 94 my own repositories." title="I&apos;ve starred 94 my own repositories." width="128">
-<strong>I&apos;ve starred 94 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 95 my own repositories." title="I&apos;ve starred 95 my own repositories." width="128">
+<strong>I&apos;ve starred 95 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/SnaveSutit/origins-mod-vscode-extension">SnaveSutit/origins-mod-vscode-extension</a>
@@ -96,6 +96,7 @@
 - <a href="https://github.com/SnaveSutit/PersonalBurnerGenerator">SnaveSutit/PersonalBurnerGenerator</a>
 - <a href="https://github.com/SnaveSutit/mc-dp-icons">SnaveSutit/mc-dp-icons</a>
 - <a href="https://github.com/SnaveSutit/mc-build-libraries">SnaveSutit/mc-build-libraries</a>
+- <a href="https://github.com/SnaveSutit/easing-peasy-blockbench-plugin">SnaveSutit/easing-peasy-blockbench-plugin</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
