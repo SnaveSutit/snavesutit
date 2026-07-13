@@ -4,10 +4,10 @@
 
 Repos:
 
+* <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template: ★3</a>
 * <a href="https://github.com/SnaveSutit/VanillaDiscordRelay">SnaveSutit/VanillaDiscordRelay: ★2</a>
 * <a href="https://github.com/SnaveSutit/configurable-boats">SnaveSutit/configurable-boats: ★2</a>
 * <a href="https://github.com/SnaveSutit/figura-libs">SnaveSutit/figura-libs: ★2</a>
-* <a href="https://github.com/SnaveSutit/blockbench-plugin-template">SnaveSutit/blockbench-plugin-template: ★2</a>
 * <a href="https://github.com/SnaveSutit/blockbench-godot-exporter">SnaveSutit/blockbench-godot-exporter: ★2</a>
 * <a href="https://github.com/SnaveSutit/origins-mod-json-schemas">SnaveSutit/origins-mod-json-schemas: ★2</a>
 * <a href="https://github.com/SnaveSutit/gu-mcb">SnaveSutit/gu-mcb: ★2</a>
