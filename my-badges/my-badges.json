@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 493 times)\n2. added (used 281 times)\n3. commit (used 191 times)\n4. fix (used 184 times)\n5. add (used 156 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 493 times)\n2. added (used 281 times)\n3. commit (used 191 times)\n4. fix (used 185 times)\n5. add (used 156 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/99f84988fcd9daed97e5b360a4dc5c80b7cc8d7c\">99f8498</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/d379b4baedab11297bcffe5570e13dd8740be5fc\">d379b4b</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/6a2f0309a684882bc84e8d50623843c9e0c7fa63\">6a2f030</a>\n- <a href=\"https://github.com/SnaveSutit/godot-state-machine/commit/22585da5b39b10f171a126a36d172c57d19ef9b0\">22585da</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build-libraries/commit/68d30745f556bf547132f6564154f6f316d99592\">68d3074</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/9261e5117444914283fa635d6748193726a1786f\">9261e51</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/3b593917d3de42d299e5328c91e732ca1f827466\">3b59391</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build-libraries/commit/af3cbb8d104a4a9d560dfe0b8bab59981ded194f\">af3cbb8</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/58a12f01ee7afe0011b69358fb140fd2f3f29fa3\">58a12f0</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/b40b7d50eeb1a023f375c669c83a6642326a2e81\">b40b7d5</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/99f84988fcd9daed97e5b360a4dc5c80b7cc8d7c\">99f8498</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-mapjam-spring-2025/commit/d379b4baedab11297bcffe5570e13dd8740be5fc\">d379b4b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
