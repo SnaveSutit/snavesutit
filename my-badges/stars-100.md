@@ -77,7 +77,7 @@ Repos:
 * <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch: ★1</a>
 * <a href="https://github.com/SnaveSutit/mc-dp-icons">SnaveSutit/mc-dp-icons: ★1</a>
 * <a href="https://github.com/SnaveSutit/PersonalBurnerGenerator">SnaveSutit/PersonalBurnerGenerator: ★1</a>
-* <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025">SnaveSutit/yeggs-mapjam-spring-2025: ★1</a>
+* <a href="https://github.com/SnaveSutit/pocket-sized-pastry-panic">SnaveSutit/pocket-sized-pastry-panic: ★1</a>
 * <a href="https://github.com/SnaveSutit/mc-build-utilities">SnaveSutit/mc-build-utilities: ★1</a>
 * <a href="https://github.com/SnaveSutit/scripts-and-tools">SnaveSutit/scripts-and-tools: ★1</a>
 * <a href="https://github.com/SnaveSutit/ch-concentrated-solar">SnaveSutit/ch-concentrated-solar: ★1</a>

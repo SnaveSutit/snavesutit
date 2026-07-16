@@ -79,7 +79,7 @@
 - <a href="https://github.com/SnaveSutit/vscode-problems-patch">SnaveSutit/vscode-problems-patch</a>
 - <a href="https://github.com/SnaveSutit/yeggs-summer-2022-submission">SnaveSutit/yeggs-summer-2022-submission</a>
 - <a href="https://github.com/SnaveSutit/minecraft-log-cli">SnaveSutit/minecraft-log-cli</a>
-- <a href="https://github.com/SnaveSutit/yeggs-mapjam-spring-2025">SnaveSutit/yeggs-mapjam-spring-2025</a>
+- <a href="https://github.com/SnaveSutit/pocket-sized-pastry-panic">SnaveSutit/pocket-sized-pastry-panic</a>
 - <a href="https://github.com/SnaveSutit/godot-state-machine">SnaveSutit/godot-state-machine</a>
 - <a href="https://github.com/SnaveSutit/svelte-patching-tools">SnaveSutit/svelte-patching-tools</a>
 - <a href="https://github.com/SnaveSutit/simple-subpub">SnaveSutit/simple-subpub</a>
