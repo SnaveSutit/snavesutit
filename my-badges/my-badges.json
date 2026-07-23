@@ -1,19 +1,5 @@
 [
   {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/SnaveSutit/minecraft-commands-performance-analysis/commit/ab4b7bcd6c08ecf7c201a1e48798efe53dd0235b\"><strong>ab</strong>4b7bcd6c08ecf7c201a1e48798efe53dd0235b</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/SnaveSutit/mcbuild-template/commit/0f634de089ae0a24ee718b0cafe1bcbbc5d32680\">0f634de089ae0a24ee718b0<strong>cafe</strong>1bcbbc5d32680</a>\n- <a href=\"https://github.com/SnaveSutit/world-template/commit/08a391e0a6a615df6124fbf6cafe13087130f5d8\">08a391e0a6a615df6124fbf6<strong>cafe</strong>13087130f5d8</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -21,67 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/6329b82bc55e2d85fcedead8e61c2d5daf85105c\">6329b82bc55e2d85fce<strong>dead</strong>8e61c2d5daf85105c</a>\n- <a href=\"https://github.com/SnaveSutit/figura-libs/commit/d3d6229dc77903d0d4cbdead21f7d342e0b3426d\">d3d6229dc77903d0d4cb<strong>dead</strong>21f7d342e0b3426d</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/mcworld-astar/commit/08be25945aff6d36ebfd1c6a14aef48e4127ec70\">08be259</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/283cd983145f103df5795d9c739bf915bd7be92e\">283cd98</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/cded40956daaee1d63193806086b2889a21f11ab\">cded409</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/1881c230da884047400c91b6b2c1614ecc1582ca\">1881c23</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/e9bff27e32810e62b622c65cc683ccb1d2a71ec3\">e9bff27</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay/commit/68d40817cb5f07e611377bd162efdff118b584e4\">68d4081</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "emoji-only-commit",
-    "tier": 0,
-    "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/generic-stream/commit/7e0fbdc40952f92372ecdbd3a88a36523f8d5899\">7e0fbdc</a>: 💢💢💢\n- <a href=\"https://github.com/SnaveSutit/yeggs-summer-2022-submission/commit/716355896afc72d325add52121e510b4ddab008f\">7163558</a>: 🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/ee141589c9cced93eb6120374a19d529c4fa8c7a\">ee14158</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/772c1ed37337ddeef74936bf54f69bee7f86012b\">772c1ed</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/e0b6e984f680ead86d3c776d1a9487d7fe58a10a\">e0b6e98</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/194876637dd381be65b6378473c595f03a1cfe3b\">1948766</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template/commit/069ef8578ba0a5c072a5b3dfb8e30b8ee01b988a\">069ef85</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/a62be1457393f2a8d4aed66fcd946124fc7c8db0\">a62be14</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/0b566224ac6ebf0d713e6c620a056729f51334c0\">0b56622</a>\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/commit/b5bf90d1393b8f455c8f03c06b77561bba5aa0e6\">b5bf90d</a>\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/commit/32d1012fff5f30df21a53140049940a80c4c4b53\">32d1012</a>\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/commit/19703cc7a49bbad330a11ed1f53ed3655fccf189\">19703cc</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 495 times)\n2. added (used 281 times)\n3. commit (used 191 times)\n4. fix (used 186 times)\n5. add (used 157 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/7cc8fb28c4c172db40c367f66427fc5ba8e46711\">7cc8fb2</a>: Fixes and missing types\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/a32d2139e4897375aefc7c80d8474e6730345dad\">a32d213</a>: Fix THREE.js version\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/5b8cf8b4726d19066db4a9ca6ae716604f892dc7\">5b8cf8b</a>: Fixes",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/f4f0304d01051bba9dd393d45b23bb1822684998\">f4f0304</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/432df3274bb88ced38ab4494eb1d6b62dff51d41\">432df32</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/5d0a4fa7b4b3268e22cdf4d4c02d2d20a941f4ea\">5d0a4fa</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/fe12b93964bbd101ee0cba53523c47dc21a8e67b\">fe12b93</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/5035d73b4fc323ad4889027f0174e9c4ff6b52b0\">5035d73</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/7b66706550ac8da755c9013972227a0b55f0ac22\">7b66706</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/3e3e45cf3d2aeafaa25905b812e804c7a438fc45\">3e3e45c</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "polite-coder",
@@ -98,13 +28,6 @@
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 95 my own repositories.",
-    "body": "- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension\">SnaveSutit/origins-mod-vscode-extension</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template\">SnaveSutit/blockbench-plugin-template</a>\n- <a href=\"https://github.com/SnaveSutit/figura-libs\">SnaveSutit/figura-libs</a>\n- <a href=\"https://github.com/SnaveSutit/world-template\">SnaveSutit/world-template</a>\n- <a href=\"https://github.com/SnaveSutit/AESTD\">SnaveSutit/AESTD</a>\n- <a href=\"https://github.com/SnaveSutit/apugli-docs\">SnaveSutit/apugli-docs</a>\n- <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk\">SnaveSutit/bbanim-to-fsk</a>\n- <a href=\"https://github.com/SnaveSutit/bedrock-schema\">SnaveSutit/bedrock-schema</a>\n- <a href=\"https://github.com/SnaveSutit/beet\">SnaveSutit/beet</a>\n- <a href=\"https://github.com/SnaveSutit/better-blockbench-blockbench-plugin\">SnaveSutit/better-blockbench-blockbench-plugin</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench\">SnaveSutit/blockbench</a>\n- <a href=\"https://github.com/SnaveSutit/Blockbench-figura-plugin\">SnaveSutit/Blockbench-figura-plugin</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-godot-exporter\">SnaveSutit/blockbench-godot-exporter</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-project-instancing\">SnaveSutit/blockbench-project-instancing</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types\">SnaveSutit/blockbench-types</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts\">SnaveSutit/cc-turtle-scripts</a>\n- <a href=\"https://github.com/SnaveSutit/configurable-boats\">SnaveSutit/configurable-boats</a>\n- <a href=\"https://github.com/SnaveSutit/Create\">SnaveSutit/Create</a>\n- <a href=\"https://github.com/SnaveSutit/CustomTab\">SnaveSutit/CustomTab</a>\n- <a href=\"https://github.com/SnaveSutit/CyberwareAddon\">SnaveSutit/CyberwareAddon</a>\n- <a href=\"https://github.com/SnaveSutit/datapack-astar\">SnaveSutit/datapack-astar</a>\n- <a href=\"https://github.com/SnaveSutit/datapack-lodestone-links\">SnaveSutit/datapack-lodestone-links</a>\n- <a href=\"https://github.com/SnaveSutit/datapack-warp-stones\">SnaveSutit/datapack-warp-stones</a>\n- <a href=\"https://github.com/SnaveSutit/deepslate\">SnaveSutit/deepslate</a>\n- <a href=\"https://github.com/SnaveSutit/docs\">SnaveSutit/docs</a>\n- <a href=\"https://github.com/SnaveSutit/double-sided-cubes-bbplugin\">SnaveSutit/double-sided-cubes-bbplugin</a>\n- <a href=\"https://github.com/SnaveSutit/envbench\">SnaveSutit/envbench</a>\n- <a href=\"https://github.com/SnaveSutit/Epoli-Docs\">SnaveSutit/Epoli-Docs</a>\n- <a href=\"https://github.com/SnaveSutit/fabric-carpet\">SnaveSutit/fabric-carpet</a>\n- <a href=\"https://github.com/SnaveSutit/factorio-modpack-generator\">SnaveSutit/factorio-modpack-generator</a>\n- <a href=\"https://github.com/SnaveSutit/factoriomod-ConfigurableTrains\">SnaveSutit/factoriomod-ConfigurableTrains</a>\n- <a href=\"https://github.com/SnaveSutit/Figura\">SnaveSutit/Figura</a>\n- <a href=\"https://github.com/SnaveSutit/figura-avatar-scripts\">SnaveSutit/figura-avatar-scripts</a>\n- <a href=\"https://github.com/SnaveSutit/figura-blockbench-plugin\">SnaveSutit/figura-blockbench-plugin</a>\n- <a href=\"https://github.com/SnaveSutit/generic-stream\">SnaveSutit/generic-stream</a>\n- <a href=\"https://github.com/SnaveSutit/GM4_Datapacks\">SnaveSutit/GM4_Datapacks</a>\n- <a href=\"https://github.com/SnaveSutit/Google-Forms-to-Discord\">SnaveSutit/Google-Forms-to-Discord</a>\n- <a href=\"https://github.com/SnaveSutit/gu-mcb\">SnaveSutit/gu-mcb</a>\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper\">SnaveSutit/js-mc-server-wrapper</a>\n- <a href=\"https://github.com/SnaveSutit/lang-mc\">SnaveSutit/lang-mc</a>\n- <a href=\"https://github.com/SnaveSutit/lang-mc-extra\">SnaveSutit/lang-mc-extra</a>\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc\">SnaveSutit/language-mcbuild-lang-mc</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build.github.io\">SnaveSutit/mc-build.github.io</a>\n- <a href=\"https://github.com/SnaveSutit/mcb-beet\">SnaveSutit/mcb-beet</a>\n- <a href=\"https://github.com/SnaveSutit/mcbuild\">SnaveSutit/mcbuild</a>\n- <a href=\"https://github.com/SnaveSutit/mcbuild-template\">SnaveSutit/mcbuild-template</a>\n- <a href=\"https://github.com/SnaveSutit/mcdata\">SnaveSutit/mcdata</a>\n- <a href=\"https://github.com/SnaveSutit/mcmap-tankchess\">SnaveSutit/mcmap-tankchess</a>\n- <a href=\"https://github.com/SnaveSutit/mcworld-astar\">SnaveSutit/mcworld-astar</a>\n- <a href=\"https://github.com/SnaveSutit/mcworld-performance-dp\">SnaveSutit/mcworld-performance-dp</a>\n- <a href=\"https://github.com/SnaveSutit/Minecraft\">SnaveSutit/Minecraft</a>\n- <a href=\"https://github.com/SnaveSutit/minecraft-commands-performance-analysis\">SnaveSutit/minecraft-commands-performance-analysis</a>\n- <a href=\"https://github.com/SnaveSutit/minecraft-java-command-parser\">SnaveSutit/minecraft-java-command-parser</a>\n- <a href=\"https://github.com/SnaveSutit/minesweeper\">SnaveSutit/minesweeper</a>\n- <a href=\"https://github.com/SnaveSutit/mythos-server-resource-pack\">SnaveSutit/mythos-server-resource-pack</a>\n- <a href=\"https://github.com/SnaveSutit/nbs-to-lua\">SnaveSutit/nbs-to-lua</a>\n- <a href=\"https://github.com/SnaveSutit/objmc\">SnaveSutit/objmc</a>\n- <a href=\"https://github.com/SnaveSutit/origins-docs\">SnaveSutit/origins-docs</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas\">SnaveSutit/origins-mod-json-schemas</a>\n- <a href=\"https://github.com/SnaveSutit/particleman\">SnaveSutit/particleman</a>\n- <a href=\"https://github.com/SnaveSutit/PuffyBoi\">SnaveSutit/PuffyBoi</a>\n- <a href=\"https://github.com/SnaveSutit/Remove-Seed-Mod\">SnaveSutit/Remove-Seed-Mod</a>\n- <a href=\"https://github.com/SnaveSutit/scarpet-world-edit\">SnaveSutit/scarpet-world-edit</a>\n- <a href=\"https://github.com/SnaveSutit/simple-folder-sync\">SnaveSutit/simple-folder-sync</a>\n- <a href=\"https://github.com/SnaveSutit/snaves-tweaks-datapacks\">SnaveSutit/snaves-tweaks-datapacks</a>\n- <a href=\"https://github.com/SnaveSutit/snavesutit\">SnaveSutit/snavesutit</a>\n- <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io\">SnaveSutit/SnaveSutit.github.io</a>\n- <a href=\"https://github.com/SnaveSutit/snavesutit.net\">SnaveSutit/snavesutit.net</a>\n- <a href=\"https://github.com/SnaveSutit/Spyglass-MCB\">SnaveSutit/Spyglass-MCB</a>\n- <a href=\"https://github.com/SnaveSutit/SquirrelWorldWiki\">SnaveSutit/SquirrelWorldWiki</a>\n- <a href=\"https://github.com/SnaveSutit/sveltebench\">SnaveSutit/sveltebench</a>\n- <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay\">SnaveSutit/VanillaDiscordRelay</a>\n- <a href=\"https://github.com/SnaveSutit/vanish\">SnaveSutit/vanish</a>\n- <a href=\"https://github.com/SnaveSutit/vscode-beet\">SnaveSutit/vscode-beet</a>\n- <a href=\"https://github.com/SnaveSutit/vscode-problems-patch\">SnaveSutit/vscode-problems-patch</a>\n- <a href=\"https://github.com/SnaveSutit/yeggs-summer-2022-submission\">SnaveSutit/yeggs-summer-2022-submission</a>\n- <a href=\"https://github.com/SnaveSutit/minecraft-log-cli\">SnaveSutit/minecraft-log-cli</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic\">SnaveSutit/pocket-sized-pastry-panic</a>\n- <a href=\"https://github.com/SnaveSutit/godot-state-machine\">SnaveSutit/godot-state-machine</a>\n- <a href=\"https://github.com/SnaveSutit/svelte-patching-tools\">SnaveSutit/svelte-patching-tools</a>\n- <a href=\"https://github.com/SnaveSutit/simple-subpub\">SnaveSutit/simple-subpub</a>\n- <a href=\"https://github.com/SnaveSutit/svelte-observable-store\">SnaveSutit/svelte-observable-store</a>\n- <a href=\"https://github.com/SnaveSutit/envbench-plugin\">SnaveSutit/envbench-plugin</a>\n- <a href=\"https://github.com/SnaveSutit/esbuild-plugin-import-folder\">SnaveSutit/esbuild-plugin-import-folder</a>\n- <a href=\"https://github.com/SnaveSutit/my-node-project-template\">SnaveSutit/my-node-project-template</a>\n- <a href=\"https://github.com/SnaveSutit/syntax-mcfunction\">SnaveSutit/syntax-mcfunction</a>\n- <a href=\"https://github.com/SnaveSutit/cc-remote-workspace\">SnaveSutit/cc-remote-workspace</a>\n- <a href=\"https://github.com/SnaveSutit/polygonal-quality-icons\">SnaveSutit/polygonal-quality-icons</a>\n- <a href=\"https://github.com/SnaveSutit/ch-concentrated-solar\">SnaveSutit/ch-concentrated-solar</a>\n- <a href=\"https://github.com/SnaveSutit/scripts-and-tools\">SnaveSutit/scripts-and-tools</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build-utilities\">SnaveSutit/mc-build-utilities</a>\n- <a href=\"https://github.com/SnaveSutit/PersonalBurnerGenerator\">SnaveSutit/PersonalBurnerGenerator</a>\n- <a href=\"https://github.com/SnaveSutit/mc-dp-icons\">SnaveSutit/mc-dp-icons</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build-libraries\">SnaveSutit/mc-build-libraries</a>\n- <a href=\"https://github.com/SnaveSutit/easing-peasy-blockbench-plugin\">SnaveSutit/easing-peasy-blockbench-plugin</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
@@ -112,88 +35,11 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/generic-stream/commit/5a0d924716d09c14cfd7bf4c1206e3949074c728\">5a0d924</a>\n- <a href=\"https://github.com/SnaveSutit/generic-stream/commit/085cd5c4bf0adbaa669f61bfbddb1d93bae3ddb2\">085cd5c</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/a37b15ed7ff7bace1e11e405bfc9473df516045e\">a37b15e</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/6356db7cad79dd866ffe2113bd6ab64545262d75\">6356db7</a>\n- <a href=\"https://github.com/SnaveSutit/envbench/commit/772c1ed37337ddeef74936bf54f69bee7f86012b\">772c1ed</a>\n- <a href=\"https://github.com/SnaveSutit/mcworld-astar/commit/08be25945aff6d36ebfd1c6a14aef48e4127ec70\">08be259</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/mc-build-libraries/commit/d3cc70d66a9adc3ee126add4613e18d08ac28961\">d3cc70d</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/9c0e164f04d5cad6b789d1448ed649fa6ad7fe24\">9c0e164</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/52b8f1c51b7aad50af30208bde9ce36841bea40e\">52b8f1c</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/247a3489a9dadfa9ed6733835d0332eb66b13810\">247a348</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template/commit/bb4f055fa0f9ee5f1f59c3c33a516694f8892997\">bb4f055</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template/commit/8b8da36a53906df358f47fb7d738a934b4517c0c\">8b8da36</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/7ba0fa178e0e84bc72766fbc99633484bfb767ec\">7ba0fa1</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/3b593917d3de42d299e5328c91e732ca1f827466\">3b59391</a>\n- <a href=\"https://github.com/SnaveSutit/mc-build-libraries/commit/af3cbb8d104a4a9d560dfe0b8bab59981ded194f\">af3cbb8</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/58a12f01ee7afe0011b69358fb140fd2f3f29fa3\">58a12f0</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/b40b7d50eeb1a023f375c669c83a6642326a2e81\">b40b7d5</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/99f84988fcd9daed97e5b360a4dc5c80b7cc8d7c\">99f8498</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper/commit/169f5df7a82a04f55de535f25fd2836ba35cc85f\">169f5df</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/0a6cd0748d3c97fe2ddd0b2517d8876ec151add7\">0a6cd07</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/e7a32885832bb19b0337829cf066e87bdca73004\">e7a3288</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/1a17952460ae68261adcbff6c32b900bbb75de58\">1a17952</a>\n- <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts/commit/54f4772d949ecf78cb918bc0a8faf66cfc3b8839\">54f4772</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-types/commit/e887738ec2cd05ef3a00d35f4d391cde851f75d7\">e887738</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/SnaveSutit/blockbench-plugin-template\">SnaveSutit/blockbench-plugin-template: ★3</a>\n* <a href=\"https://github.com/SnaveSutit/VanillaDiscordRelay\">SnaveSutit/VanillaDiscordRelay: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/configurable-boats\">SnaveSutit/configurable-boats: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/figura-libs\">SnaveSutit/figura-libs: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/blockbench-godot-exporter\">SnaveSutit/blockbench-godot-exporter: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas\">SnaveSutit/origins-mod-json-schemas: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/gu-mcb\">SnaveSutit/gu-mcb: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/mcb-beet\">SnaveSutit/mcb-beet: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/minecraft-log-cli\">SnaveSutit/minecraft-log-cli: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/godot-state-machine\">SnaveSutit/godot-state-machine: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/mc-build-libraries\">SnaveSutit/mc-build-libraries: ★2</a>\n* <a href=\"https://github.com/SnaveSutit/CyberwareAddon\">SnaveSutit/CyberwareAddon: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/AESTD\">SnaveSutit/AESTD: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Minecraft\">SnaveSutit/Minecraft: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mcdata\">SnaveSutit/mcdata: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/SnaveSutit.github.io\">SnaveSutit/SnaveSutit.github.io: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/GM4_Datapacks\">SnaveSutit/GM4_Datapacks: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Google-Forms-to-Discord\">SnaveSutit/Google-Forms-to-Discord: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/SquirrelWorldWiki\">SnaveSutit/SquirrelWorldWiki: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/fabric-carpet\">SnaveSutit/fabric-carpet: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/scarpet-world-edit\">SnaveSutit/scarpet-world-edit: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Remove-Seed-Mod\">SnaveSutit/Remove-Seed-Mod: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mcbuild\">SnaveSutit/mcbuild: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/snavesutit.net\">SnaveSutit/snavesutit.net: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/lang-mc\">SnaveSutit/lang-mc: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/docs\">SnaveSutit/docs: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/lang-mc-extra\">SnaveSutit/lang-mc-extra: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/double-sided-cubes-bbplugin\">SnaveSutit/double-sided-cubes-bbplugin: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mc-build.github.io\">SnaveSutit/mc-build.github.io: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/datapack-warp-stones\">SnaveSutit/datapack-warp-stones: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/minecraft-commands-performance-analysis\">SnaveSutit/minecraft-commands-performance-analysis: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mythos-server-resource-pack\">SnaveSutit/mythos-server-resource-pack: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/datapack-lodestone-links\">SnaveSutit/datapack-lodestone-links: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/vanish\">SnaveSutit/vanish: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/CustomTab\">SnaveSutit/CustomTab: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/snaves-tweaks-datapacks\">SnaveSutit/snaves-tweaks-datapacks: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Blockbench-figura-plugin\">SnaveSutit/Blockbench-figura-plugin: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/PuffyBoi\">SnaveSutit/PuffyBoi: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/factorio-modpack-generator\">SnaveSutit/factorio-modpack-generator: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/factoriomod-ConfigurableTrains\">SnaveSutit/factoriomod-ConfigurableTrains: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/minecraft-java-command-parser\">SnaveSutit/minecraft-java-command-parser: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/bedrock-schema\">SnaveSutit/bedrock-schema: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/figura-blockbench-plugin\">SnaveSutit/figura-blockbench-plugin: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mcmap-tankchess\">SnaveSutit/mcmap-tankchess: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/better-blockbench-blockbench-plugin\">SnaveSutit/better-blockbench-blockbench-plugin: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/yeggs-summer-2022-submission\">SnaveSutit/yeggs-summer-2022-submission: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/simple-folder-sync\">SnaveSutit/simple-folder-sync: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Create\">SnaveSutit/Create: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/nbs-to-lua\">SnaveSutit/nbs-to-lua: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/objmc\">SnaveSutit/objmc: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/generic-stream\">SnaveSutit/generic-stream: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/blockbench-types\">SnaveSutit/blockbench-types: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/particleman\">SnaveSutit/particleman: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/deepslate\">SnaveSutit/deepslate: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mcbuild-template\">SnaveSutit/mcbuild-template: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/datapack-astar\">SnaveSutit/datapack-astar: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/cc-turtle-scripts\">SnaveSutit/cc-turtle-scripts: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/bbanim-to-fsk\">SnaveSutit/bbanim-to-fsk: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/origins-docs\">SnaveSutit/origins-docs: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/apugli-docs\">SnaveSutit/apugli-docs: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Epoli-Docs\">SnaveSutit/Epoli-Docs: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/js-mc-server-wrapper\">SnaveSutit/js-mc-server-wrapper: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/minesweeper\">SnaveSutit/minesweeper: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/sveltebench\">SnaveSutit/sveltebench: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/blockbench-project-instancing\">SnaveSutit/blockbench-project-instancing: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/snavesutit\">SnaveSutit/snavesutit: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/Spyglass-MCB\">SnaveSutit/Spyglass-MCB: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/beet\">SnaveSutit/beet: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/vscode-beet\">SnaveSutit/vscode-beet: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/blockbench\">SnaveSutit/blockbench: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/vscode-problems-patch\">SnaveSutit/vscode-problems-patch: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mc-dp-icons\">SnaveSutit/mc-dp-icons: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/PersonalBurnerGenerator\">SnaveSutit/PersonalBurnerGenerator: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic\">SnaveSutit/pocket-sized-pastry-panic: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/mc-build-utilities\">SnaveSutit/mc-build-utilities: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/scripts-and-tools\">SnaveSutit/scripts-and-tools: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/ch-concentrated-solar\">SnaveSutit/ch-concentrated-solar: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/polygonal-quality-icons\">SnaveSutit/polygonal-quality-icons: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/cc-remote-workspace\">SnaveSutit/cc-remote-workspace: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/syntax-mcfunction\">SnaveSutit/syntax-mcfunction: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/esbuild-plugin-import-folder\">SnaveSutit/esbuild-plugin-import-folder: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/my-node-project-template\">SnaveSutit/my-node-project-template: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/envbench-plugin\">SnaveSutit/envbench-plugin: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/svelte-patching-tools\">SnaveSutit/svelte-patching-tools: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/svelte-observable-store\">SnaveSutit/svelte-observable-store: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/simple-subpub\">SnaveSutit/simple-subpub: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/book-and-quill\">SnaveSutit/book-and-quill: ★1</a>\n* <a href=\"https://github.com/Embody-Games/Brush-Tuna\">Embody-Games/Brush-Tuna: ★1</a>\n* <a href=\"https://github.com/SnaveSutit/easing-peasy-blockbench-plugin\">SnaveSutit/easing-peasy-blockbench-plugin: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/a59c4deda54f5f6a866ef5afa7818c8a8352d174\">a59c4de</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/c3bf61f3c67cb14f89063e8967cd657f973aa79a\">c3bf61f</a>\n- <a href=\"https://github.com/SnaveSutit/world-template/commit/bd7abd361a196187d4cae18039891fe1b73b3d8a\">bd7abd3</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases",
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/9261e5117444914283fa635d6748193726a1786f\">9261e51</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/c017437522e12509018960f62f91689f10fa8e6c\">c017437</a>\n- <a href=\"https://github.com/SnaveSutit/book-and-quill/commit/f149a8ad83d84ce0423f6bac14c47d05692c00d0\">f149a8a</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/aa86a97e5761aeaec9ddec6d9a74a04a1da17e03\">aa86a97</a>\n- <a href=\"https://github.com/Embody-Games/Brush-Tuna/commit/05d6e9445ec80429b5f257fb7214709cc9c7f231\">05d6e94</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-plugins/commit/33ae6f1fa7c17e0475ae79c4c0976a116a565a57\">33ae6f1</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/minecraft-java-command-parser/commit/b0db05fcf65492aead85e3acda5ad6f82990b86c\">b0db05f</a>\n- <a href=\"https://github.com/SnaveSutit/minecraft-java-command-parser/commit/f4fd72a28907f96a84d4360f8f30505961a5db32\">f4fd72a</a>\n- <a href=\"https://github.com/SnaveSutit/minecraft-java-command-parser/commit/075648a39d6913cee9042ab6fcfec342764e2fee\">075648a</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/origins-mod-json-schemas/commit/4f76a77666250f05e0d5355e111b4856cad94d42\">4f76a77</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/7cf8e970b65c263dc3464bcff24d34d847f41f64\">7cf8e97</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/c5c90016add9f4a847c16f680aab0b141e013854\">c5c9001</a>\n- <a href=\"https://github.com/SnaveSutit/blockbench-patch-manager/commit/1c9fa63ad70e98309e48ca77cb418c1c7471bda6\">1c9fa63</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/ca0e2f58b3cc05f884dcaca4d1112dc2a25eeac0\">ca0e2f5</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/2949dbbf526b9fb5c50937722da27c0a8c17d472\">2949dbb</a>\n- <a href=\"https://github.com/SnaveSutit/pocket-sized-pastry-panic/commit/7b7b7ae6f8110264a056c51afbb82f947a06a47c\">7b7b7ae</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/6392ce9cac9f5e0d197d36a3cae0b76931cc000d\">6392ce9</a>\n- <a href=\"https://github.com/SnaveSutit/origins-mod-vscode-extension/commit/3acfa658c1c1b4b019329004735dce032560f6d2\">3acfa65</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
     "id": "this-is-fine",
