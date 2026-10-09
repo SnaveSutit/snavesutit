@@ -17,7 +17,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/396\">#396</a>: 🐛 Bones do not inherit step interpolation in-game\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/391\">#391</a>: [FR] Locator children\n- <a href=\"https://github.com/ajknowles11/chains-link/issues/2\">#2</a>: Backport v2.0 to 1.16.1?\n- <a href=\"https://github.com/MrCrayfish/MrCrayfishFurnitureMod/issues/542\">#542</a>: [1.12.2] Open Modular Turrets Crash\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/45\">#45</a>: [BUG] build_in_progress flag not being reset in some cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/54\">#54</a>: [FR] Install function should inform users of it's importance\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases",
+    "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/315\">#315</a>: [BUG] When exporting invalid commands in a command keyframe, the error is non-descriptive.",
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
