@@ -38,7 +38,7 @@
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/315\">#315</a>: [BUG] When exporting invalid commands in a command keyframe, the error is non-descriptive.",
+    "body": "Issues:\n\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7\">#7</a>: Macros with block arguments break syntax highlighting\n- <a href=\"https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4\">#4</a>: Inline Script Block Edge Cases\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/315\">#315</a>: [BUG] When exporting invalid commands in a command keyframe, the error is non-descriptive.\n- <a href=\"https://github.com/Animated-Java/animated-java/issues/270\">#270</a>: [FR] Possible minor performance enhancement",
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {

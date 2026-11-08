@@ -7,6 +7,7 @@ Issues:
 - <a href="https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/7">#7</a>: Macros with block arguments break syntax highlighting
 - <a href="https://github.com/SnaveSutit/language-mcbuild-lang-mc/issues/4">#4</a>: Inline Script Block Edge Cases
 - <a href="https://github.com/Animated-Java/animated-java/issues/315">#315</a>: [BUG] When exporting invalid commands in a command keyframe, the error is non-descriptive.
+- <a href="https://github.com/Animated-Java/animated-java/issues/270">#270</a>: [FR] Possible minor performance enhancement
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
